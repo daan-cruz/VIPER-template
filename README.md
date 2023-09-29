@@ -7,11 +7,17 @@
 
 ## How to use?
 1. Go to Xcode Project
-![Xcode project](images/HowToUse/1-Project_folders)
+
+![Project folders](Images/HowToUse/1-Project_folders.png)
+
 1. New file > Design Pattern > VIPER
-![New file](2-New_file)
-![Choose template](2-Choose_template)
+
+<img src="Images/HowToUse/2-New_file.png" alt="New file" width="250"> <img src="Images/HowToUse/2-Choose_template.png" alt="Choose template" width="680">
+
 1. Write module name
-![Module name](3-Module_name)
+
+![Module name](Images/HowToUse/3-Module_name.png)
+
 1. READY!
-![Module name](4-Ready)
+
+![Ready](Images/HowToUse/4-Ready.png)
