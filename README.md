@@ -1,5 +1,5 @@
 # VIPER Template
- Automatic file generator with design pattern from a module name
+ Xcode - Swift file generator (Automatic) with VIPER design pattern
 
 ## How to install?
 1. Download `install_template.sh` file
@@ -12,7 +12,7 @@
 
 1. New file > Design Pattern > VIPER
 
-<img src="Images/HowToUse/2-New_file.png" alt="New file" width="250"> <img src="Images/HowToUse/2-Choose_template.png" alt="Choose template" width="680">
+<img src="Images/HowToUse/2-New_file.png" alt="New file" width="250"> <img src="Images/HowToUse/2-Choose_template.png" alt="Choose template" width="480">
 
 1. Write module name
 
